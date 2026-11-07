@@ -113,7 +113,7 @@ La aplicación puede consultarse mediante las siguientes direcciones, utilizando
 
 ### 3. Endpoint de mensaje simple
 
-![Endpoint mensaje](capturas/mensaje.png)
+![Endpoint mensaje](capturas/saludo.png)
 
 ### 4. Endpoint de información del servidor
 
